@@ -445,7 +445,7 @@ public class CS26115_SelfPortrait extends Frame {
         shape21.curveTo(480.843, 461.95, 477.661, 455.695, 473.8, 444.5);
         shape21.curveTo(474.267, 437.72, 474.981, 433.912, 477.0, 427.1);
         shape21.closePath();
-        g2d.setPaint(Color.decode("#CFD3D2"));
+        g2d.setPaint(Color.decode("#D4C8C0"));
         g2d.fill(shape21);
 
         GeneralPath shape22 = new GeneralPath(); // EAR
@@ -454,7 +454,7 @@ public class CS26115_SelfPortrait extends Frame {
         shape22.curveTo(505.003, 464.87, 506.58, 466.245, 510.6, 466.5);
         shape22.lineTo(512.4, 458.9);
         shape22.closePath();
-        g2d.setPaint(Color.decode("#CFD3D2"));
+        g2d.setPaint(Color.decode("#D4C8C0"));
         g2d.fill(shape22);
 
         GeneralPath shape23 = new GeneralPath(); // EAR
@@ -931,7 +931,7 @@ public class CS26115_SelfPortrait extends Frame {
         shape48.curveTo(600.121, 430.874, 596.945, 425.831, 588.6, 417.5);
         shape48.lineTo(572.2, 391.3);
         shape48.curveTo(554.32, 377.759, 544.602, 371.328, 528.4, 364.1);
-        g2d.setPaint(Color.decode("#CFD3D2"));
+        g2d.setPaint(Color.decode("#D4C8C0"));
         g2d.fill(shape48);
 
         GeneralPath shape49 = new GeneralPath(); // MOUTH
